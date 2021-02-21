@@ -1,6 +1,6 @@
 ## Hey there! I'm Wansoo Kim
 
-:briefcase: I work as an Machine Learning Engineer at @riiid, an Eucation AI startup.
+:briefcase: I work as an Machine Learning Engineer at @riiid, an Eucation AI startup. <\br>
 :dart: I am a big fan of OpenSource and a contributor to various projects.
 
 
